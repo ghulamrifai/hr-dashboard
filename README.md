@@ -34,7 +34,7 @@ The final integrated table (`EmployeeFull`) is used as the primary data source f
 
 ## Dashboard Access
 
-The dashboard can be accessed via the following link: **[click here.][(https://app.powerbi.com/groups/me/reports)](https://app.powerbi.com/view?r=eyJrIjoiYTQzZDhhMzgtODIyNy00NzdhLWFmYjEtNTk2MWE5OTNlNTNhIiwidCI6IjgyMTE5NTA1LTdmNTYtNGUxZC04NTlhLWJiZWFjODNhNzhhMCIsImMiOjEwfQ%3D%3D&pageName=fda8be94a7aa3fcf2ae6)**
+The dashboard can be accessed via the following link: **[click here.](https://app.powerbi.com/view?r=eyJrIjoiYTQzZDhhMzgtODIyNy00NzdhLWFmYjEtNTk2MWE5OTNlNTNhIiwidCI6IjgyMTE5NTA1LTdmNTYtNGUxZC04NTlhLWJiZWFjODNhNzhhMCIsImMiOjEwfQ%3D%3D&pageName=fda8be94a7aa3fcf2ae6)**
 
 ## Query Structure
 
